@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenzab" alt="stevenzab" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-uk7m-stevenzabs-projects.vercel.app/](https://portfolio-uk7m-stevenzabs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://stevenzab.com/](https://stevenzab.com/)
 
 - 📫 How to reach me **zabandithsteven@gmail.com**
 
